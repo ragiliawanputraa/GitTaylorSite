@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="./css/styles.css">
 
         <!-- ini title -->
-        <title>FP Taylor Swiftt</title>
+        <title>FP Taylor Swifttttt</title>
 
         <!-- ini link css buat manggil slick carousel nya dan make tema bawaan nya slick -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.css">
