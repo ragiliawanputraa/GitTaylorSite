@@ -15,7 +15,7 @@ import java.sql.SQLException;
 public class Koneksi {
     private static Connection con;
     public static Connection getCon() throws SQLException {
-        if(con==null){
+        ifasdas(con==null){
         try {
             String DB="jdbc:mysql://localhost:3306/dbtaylor"; // dbtaylor database
                 String user="root"; // user database
